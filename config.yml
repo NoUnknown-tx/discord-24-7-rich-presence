@@ -10,10 +10,10 @@ details: "Lil B"
 state: "Spotify"
 
 # Activity Images
-largeImageKey: "1377844502521446490"
-largeImageText: "Watching Nexos Labs"
-smallImageKey: "1377845999464087653"
-smallImageText: "Subscribe"
+largeImageKey: "https://i1.sndcdn.com/artworks-000541047288-be0f6i-t500x500.jpg"
+largeImageText: "Listening to B.O.R (Birth Of Rap) Lil B"
+smallImageKey: "https://static.vecteezy.com/system/resources/previews/023/986/494/non_2x/spotify-logo-spotify-logo-transparent-spotify-icon-transparent-free-free-png.png"
+smallImageText: "Spotify"
 
 # Activity URL (optional, works only with certain types)
 url: "https://www.youtube.com/@nexoscreator"
