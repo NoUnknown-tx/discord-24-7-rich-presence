@@ -10,9 +10,9 @@ details: "Lil B"
 state: "Spotify"
 
 # Activity Images
-largeImageKey: "https://i1.sndcdn.com/artworks-000541047288-be0f6i-t500x500.jpg"
+largeImageKey: "https://cdn.discordapp.com/attachments/1548403225429016638/1553837296124428318/images.jpg?ex=6abab340&is=6ab961c0&hm=7f3a18e614b2c9c7ba7f1e381e26860f3f54c8400407036d5ced25e6b11017fb&"
 largeImageText: "Listening to B.O.R (Birth Of Rap) Lil B"
-smallImageKey: "https://static.vecteezy.com/system/resources/previews/023/986/494/non_2x/spotify-logo-spotify-logo-transparent-spotify-icon-transparent-free-free-png.png"
+smallImageKey: "https://cdn.discordapp.com/attachments/1548403225429016638/1553837296686596206/file-spotify-logo-png-4.png?ex=6abab340&is=6ab961c0&hm=07c5a6e0bdb18cfa3d70b8b0fffcc15d19a3f138eb31c98e97d2005760dd3f00&"
 smallImageText: "Spotify"
 
 # Activity URL (optional, works only with certain types)
