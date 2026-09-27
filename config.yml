@@ -5,9 +5,9 @@ application_id: "1311204057490259979"
 type: 3
 
 # Activity Details
-name: "Youtube"
-details: "Watching Nexos Labs"
-state: "Subscribe"
+name: "B.O.R (Birth Of Rap)"
+details: "Lil B"
+state: "Spotify"
 
 # Activity Images
 largeImageKey: "1377844502521446490"
@@ -20,11 +20,9 @@ url: "https://www.youtube.com/@nexoscreator"
 
 # Activity Buttons (optional)
 buttons:
-  - name: "Visit Website"
-    url: "https://www.nexoscreator.tech"
-  - name: "GitHub Repo"
-    url: "https://github.com/nexoslabs/discord-24-7-rich-presence"
+  - name: "Listen Along"
+    url: "https://open.spotify.com/track/4VGr45NZouCH9cb7JYgvLc"
 
 # Activity Custom status
-custom_status: "Watching tutorials"
-custom_emoji: "🔥"
+custom_status: "TYBG"
+custom_emoji: "🪽"
